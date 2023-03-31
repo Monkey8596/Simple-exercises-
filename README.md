@@ -1,7 +1,7 @@
 # Python exercises 👨‍💻
 Python  practices
 
->A series of practices where Python is executed with different projects and tools where i put in practice the different concepts of the languaje based on the platzi course .
+>This is a series of Python practices where I execute different projects and tools to put the various concepts of the language into practice based on the knowledge I have learned.
 
 ## It is evidenced:
 * The basic structure of Python
